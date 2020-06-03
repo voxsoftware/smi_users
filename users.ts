@@ -45,5 +45,9 @@ export var data = {
 	user0014: {
 		expires: 1591567200000,
 		throttle: 7
+	},
+
+	vna002: {
+		throttle: 6
 	}
 }
