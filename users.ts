@@ -48,6 +48,6 @@ export var data = {
 	},
 
 	vna002: {
-		throttle: 6
+		
 	}
 }
