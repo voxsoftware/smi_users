@@ -1,14 +1,14 @@
 export var data = {
 	user0000:{
 		expires: "2020-06-19 05:00"
-	}, 
+	},
 	user0001: {
 		expires: "2020-06-19 05:00"
 	},
 
 	user0002: {
-		expires: '2020-06-15 05:00' 
-		
+		expires: '2020-07-06 05:00' 
+
 	},
 
 	user0005: {
