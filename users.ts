@@ -7,7 +7,7 @@ export var data = {
 	},
 
 	user0002: {
-		expires: '2020-07-06 05:00' 
+		expires: '2020-07-04 05:00' 
 
 	},
 
