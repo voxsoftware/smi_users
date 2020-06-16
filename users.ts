@@ -90,7 +90,9 @@ export var data = {
 	user0024: {
 		expires: '2020-06-22 16:00'
 	},
-
+	user0025: {
+		expires: '2020-07-16 19:00'
+	},
 
 	vna002: {
 
