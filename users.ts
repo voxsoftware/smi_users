@@ -3,7 +3,7 @@ export var data = {
 		expires: "2020-06-27 05:40"
 	},
 	user0001: {
-		expires: "2020-06-19 05:00"
+		expires: "2020-06-27 05:40"
 	},
 
 	user0002: {
