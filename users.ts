@@ -1,6 +1,6 @@
 export var data = {
 	user0000:{
-		expires: "2020-06-26 07:00"
+		expires: "2020-06-27 05:40"
 	},
 	user0001: {
 		expires: "2020-06-19 05:00"
